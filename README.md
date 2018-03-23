@@ -6,9 +6,7 @@ The tutorial can be found [here](https://blog.viromedia.com/tutorial-how-to-buil
 
 Here are examples of the app features:
 - Create your own 3D Animal
-<a href="https://github.com/viromedia/virocore/blob/master/ARRetail/app/src/main/java/com/example/virosample/ProductARActivity.java">
-<img src="https://raw.githubusercontent.com/zhunhung/ARApp/blob/master/animal.gif">
-</a>
+<img src="https://github.com/zhunhung/ARApp/blob/master/animal.gif">
 
 - Create your own Portal
 <img src="https://github.com/zhunhung/ARApp/blob/master/portal.gif">
