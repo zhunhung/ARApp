@@ -11,4 +11,4 @@ Here are examples of the app features:
 </a>
 
 - Create your own Portal
-<img src="https://raw.githubusercontent.com/zhunhung/ARApp/blob/master/portal.gif">
+<img src="https://github.com/zhunhung/ARApp/blob/master/portal.gif">
